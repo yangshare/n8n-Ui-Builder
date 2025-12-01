@@ -1,0 +1,12 @@
+{
+  "name": "n8n-lowcode-platform",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --filter ui-builder dev",
+    "build": "pnpm --filter ui-builder build"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
